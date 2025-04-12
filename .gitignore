@@ -1,0 +1,3 @@
+services/*/data/
+services/calibre/config
+services/calibre-web/config
